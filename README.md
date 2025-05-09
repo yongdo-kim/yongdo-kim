@@ -1,16 +1,19 @@
-## Hi there 👋
+Flutter를 중심으로 클라이언트 개발을 주력으로 하고 있으며,  
+백엔드와 인프라에 대한 관심을 기반으로 **전반적인 서비스 사이클**을 이해하고 구현하는 데 집중하고 있습니다.
 
-<!--
-**yongdo-kim/yongdo-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💼 About Me
+- 🎯 **클라이언트 개발자**로서의 깊이 있는 경험
+- 🧩 백엔드부터 배포까지 전체 사이클에 대한 관심과 실험
+- 🤝 협업을 더 잘하기 위한 다방면의 기술 이해 노력
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔨 Tech Stack
+- **Flutter / Dart** – 메인 기술, 다수의 앱 프로젝트 경험
+- **NestJS / TypeScript** – 서버 사이드 구현 경험
+- **AWS EC2 / RDS / S3** – 배포 및 운영 환경 구성
+- **Firebase** – 푸시, 리모트 컨피그, 크래시 리포트 등
+
+---
